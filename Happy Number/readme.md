@@ -13,6 +13,7 @@ Input: 19
 Output: true
 
 Explanation: 
+
 1^2 + 9^2 = 82
 
 8^2 + 2^2 = 68
