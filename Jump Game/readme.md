@@ -32,4 +32,4 @@ Constraints:
 
     1 <= nums.length <= 3 * 10^4
 
-    0 <= nums[i][j] <= 10
+    0 <= nums[i][j] <= 10^5
