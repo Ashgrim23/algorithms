@@ -11,6 +11,7 @@ Example 1:
 n = 5
 
 The coins can form the following rows:
+
 ¤
 
 ¤ ¤
@@ -24,6 +25,7 @@ Example 2:
 n = 8
 
 The coins can form the following rows:
+
 ¤
 
 ¤ ¤
